@@ -4,7 +4,7 @@
 		<h1>php rulz</h1>
 
 		<?php
-			echo "this is php";
+			print "this is php";
 		?>
 	
 	</body>
